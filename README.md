@@ -5,7 +5,7 @@
 📊 Interesso-me por Ciência de Dados e Desenvolvimento Web
 
 #### 🧠 Áreas de interesse:
-- **Ciência de Dados**: Python (Pandas, NumPy, Scikit-Learn, etc.), SQL  
+- **Ciência de Dados**: Python (Pandas, NumPy, Scikit-Learn, etc.), SQL , R
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP  
 - **Banco de Dados**: MySQL / SQL  / PostgreeSQL
 
