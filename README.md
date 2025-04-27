@@ -7,7 +7,7 @@
 #### 🧠 Áreas de interesse:
 - **Ciência de Dados**: Python (Pandas, NumPy, Scikit-Learn, etc.), SQL  
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, PHP  
-- **Banco de Dados**: MySQL / SQL  
+- **Banco de Dados**: MySQL / SQL  / PostgreeSQL
 
 Estou sempre buscando novos desafios e oportunidades para aprender, colaborar e criar soluções que gerem impacto!
 
